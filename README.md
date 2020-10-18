@@ -1,7 +1,7 @@
 # Tarea-3
 > Repositorio creado como actividad del Taller "Git y GitHub" - Workshop Tech
 
-## Resume
+## Resumen
   - [Ejercicio](#Ejercicio)
   - [Autores](#Autores)
 
