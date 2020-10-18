@@ -1,5 +1,5 @@
-# Tarea-3
-> Repositorio creado como actividad del Taller "Git y GitHub" - Workshop Tech
+# Tarea 3
+> Repositorio creado como actividad del Taller "Git y GitHub" - Workshop Tech, tomado el sábado 17 en la materia de Fundamentos de Ingenieria en Software.
 
 ## Resumen
   - [Ejercicio](#Ejercicio)
