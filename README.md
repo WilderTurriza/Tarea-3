@@ -15,3 +15,4 @@ En equipos de 3 integrantes realizar un ejercicio que consistirá en un reposito
 ## Autores
 
   - [Wilder Turriza](https://github.com/WilderTurriza)
+  - [Gabriela Batun](https://github.com/Gabriela-Batun-Ceme)
